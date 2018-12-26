@@ -1,0 +1,18 @@
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.exe
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.pdb
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\bin\Debug\UHFReader18demomain.exe
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\bin\Debug\UHFReader18demomain.pdb
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.Form1.resources
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.Properties.Resources.resources
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.GenerateResource.Cache
+F:\RFID\恺乐9001、02、07、R系列开发包\一体机读写器资料(1)\一体机读写器资料\中文版\演示软件\Csharp chV2.1\UHFReader18demomain\obj\Debug\UHFReader18demomain.csprojResolveAssemblyReference.cache
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\bin\Debug\UHFReader18demomain.exe
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\bin\Debug\UHFReader18demomain.pdb
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.csprojResolveAssemblyReference.cache
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.Form1.resources
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.Properties.Resources.resources
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.GenerateResource.cache
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.CoreCompileInputs.cache
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.csproj.CopyComplete
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.exe
+C:\Users\SmartChen\Desktop\UHFReader18demomain\UHFReader18demomain\obj\Debug\UHFReader18demomain.pdb
